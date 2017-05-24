@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MQTTAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="publish">Publish</string>
+    <string name="topico">Tópico</string>
+    <string name="mensagem">Mensagem</string>
+    <string name="enviar">Enviar</string>
+    <string name="subscribe">Subscribe</string>
+</resources>
